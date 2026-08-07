@@ -11,8 +11,8 @@ export default function HomeScreen() {
 			<Link href="/meals" style={{ fontSize: 18, color: "#007bff" }}>
 				Go to Meals
 			</Link>
-			<Link href="/add-meals" style={{ fontSize: 18, color: "aqua" }}>
-				Go to Add Meals
+			<Link href="/add-meal" style={{ fontSize: 18, color: "aqua" }}>
+				Go to Add Meal
 			</Link>
 		</View>
 	);
