@@ -1,3 +1,5 @@
+// components/RecentMeals.tsx
+
 import { Meal } from "@/storage/meals";
 import { StyleSheet, Text, View } from "react-native";
 import MealItem from "./MealItem";

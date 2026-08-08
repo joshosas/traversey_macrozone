@@ -1,3 +1,5 @@
+// components/MealItem.tsx
+
 import { deleteMeal } from "@/storage/meals";
 import { colors } from "@/styles/global";
 import { Alert, StyleSheet, Text, TouchableOpacity } from "react-native";
