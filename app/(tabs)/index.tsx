@@ -1,3 +1,5 @@
+// app/(tabs)/index.tsx
+
 import CopyButton from "@/components/CopyButton";
 import HomeHeader from "@/components/HomeHeader";
 import MacroGrid from "@/components/MacroGrid";

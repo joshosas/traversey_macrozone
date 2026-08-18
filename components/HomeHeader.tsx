@@ -1,3 +1,5 @@
+// // components/HomeHeader.tsx
+
 import { colors, globalStyles } from "@/styles/global";
 import { StyleSheet, Text, View } from "react-native";
 

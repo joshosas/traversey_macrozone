@@ -1,3 +1,5 @@
+// components/CopyButton.tsx
+
 import { Meal } from "@/storage/meals";
 import { colors } from "@/styles/global";
 import { Ionicons } from "@expo/vector-icons";

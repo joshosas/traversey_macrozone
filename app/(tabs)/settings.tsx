@@ -1,3 +1,5 @@
+// app/(tabs)/settings.tsx
+
 import { globalStyles } from "@/styles/global";
 import { ScrollView, Text } from "react-native";
 

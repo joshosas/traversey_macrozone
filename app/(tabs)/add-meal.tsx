@@ -1,3 +1,5 @@
+// app/(tabs)/add-meal.tsx
+
 import { addMeal } from "@/storage/meals";
 import { colors, globalStyles } from "@/styles/global";
 import * as Haptics from "expo-haptics";

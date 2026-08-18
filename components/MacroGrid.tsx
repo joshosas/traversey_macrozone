@@ -1,3 +1,5 @@
+// components/MacroGrid.tsx
+
 import { Meal } from "@/storage/meals";
 import { StyleSheet, View } from "react-native";
 import MacroCard from "./MacroCard";

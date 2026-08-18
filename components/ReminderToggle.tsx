@@ -1,3 +1,5 @@
+// components/ReminderToggle.tsx
+
 import { colors } from "@/styles/global";
 import {
 	cancelMealReminders,

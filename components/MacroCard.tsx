@@ -1,3 +1,5 @@
+// components/MacroCard.tsx
+
 import { StyleSheet, Text, View } from "react-native";
 
 type MacroCardProps = {
